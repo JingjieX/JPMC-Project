@@ -1,6 +1,6 @@
 # Project Report: Census Income Classification and Customer Segmentation
 
-**Prepared for:** Retail Business Client | **Date:** March 2026
+**Prepared for:** Retail Business Client | **Date:** March 30, 2026
 
 ---
 
